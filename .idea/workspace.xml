@@ -1,27 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="7f1d9ef6-3d18-47f4-aa5b-e77a7de01b0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Home_paginap_3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home_paginap_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Home_paginap_3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact2.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/domeinaamchecker.html" beforeDir="false" afterPath="$PROJECT_DIR$/domeinaamchecker.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,30 +65,34 @@
       <workItem from="1614863677395" duration="2480000" />
       <workItem from="1615456888445" duration="1548000" />
       <workItem from="1615897315280" duration="10564000" />
-      <workItem from="1616502004633" duration="1423000" />
-      <workItem from="1616504553509" duration="206000" />
+      <workItem from="1616502004633" duration="3640000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="WindowStateProjectService">
     <state x="394" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615900388783">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="394" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1615900388783" />
+    <state x="590" y="354" key="Github.ShareDialog" timestamp="1616503879701">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="590" y="354" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1616503879701" />
+    <state x="490" y="162" key="Github.UntrackedFilesDialog" timestamp="1616503940717">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="490" y="162" key="Github.UntrackedFilesDialog/0.23.1440.831@0.23.1440.831" timestamp="1616503940717" />
+    <state x="144" y="79" key="MergeDialog" timestamp="1616504849254">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="144" y="79" key="MergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1616504849254" />
+    <state x="518" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1616506784801">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="518" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1616506784801" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1615899208244">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
